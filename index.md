@@ -12,4 +12,4 @@ _Italian student and self-taught developer._
 - **[Read more about me](about)**
 - **[View my projects](projects)**
 
-## © Copyright {{ site.time | date: '%Y' }}
+### © Copyright {{ site.time | date: '%Y' }}

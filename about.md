@@ -7,4 +7,4 @@ I recently started studying some books about _Computer Science_, to get a theore
 
 ## [Home](/)
 
-## © Copyright {{ site.time | date: '%Y' }}
+### © Copyright {{ site.time | date: '%Y' }}
