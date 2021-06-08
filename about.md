@@ -5,4 +5,6 @@ and I find effective solutions for each one: you can see some of my projects in 
 I am currently deeply concentrating on learning how to use the **Go language** well, and I think it's nice.
 I recently started studying some books about _Computer Science_, to get a theoretical basis that will be useful in the future.
 
-© Copyright {{ site.time | date: '%y' }}
+## [Home](/)
+
+## © Copyright {{ site.time | date: '%Y' }}
