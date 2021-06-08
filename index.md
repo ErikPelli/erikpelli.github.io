@@ -5,10 +5,11 @@
 _Italian student and self-taught developer._
 
 ## Contacts
-[✉️ Write me an email](mailto:erikpellizzon@gmail.com)
-
-[✈️ Write me on Telegram](https://telegram.me/ErikP)
+- [✉️ Email](mailto:erikpellizzon@gmail.com)
+- [✈️ Telegram](https://telegram.me/ErikP)
 
 ## Pages
 - **[Read more about me](about)**
 - **[View my projects](projects)**
+
+## © Copyright {{ site.time | date: '%Y' }}
