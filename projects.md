@@ -1,5 +1,12 @@
 # 🔨 My projects
 
+## [\[Go\] Minecraft Light Server](https://github.com/ErikPelli/MinecraftLightServer)
+![Minecraft](projects/mclight.png)
+
+Minecraft Light Server is a simple multiplayer Minecraft server written entirely in Go, which can help those who are making one to better understand how the basic things that compose it interact with each other.
+
+It's very basic and its functions are very limited, but it was built following the specifications and understanding what other projects have done, which are written in the project readme file.
+
 ## [\[C\] SRIX4K Reader](https://github.com/ErikPelli/SRIX4K-Reader)
 ![NFC](projects/nfc.png)
 
