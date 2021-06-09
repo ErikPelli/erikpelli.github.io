@@ -1,9 +1,16 @@
 # 🔨 My projects
 
+## [\[Go\] SimplyP2P](https://github.com/ErikPelli/SimplyP2P)
+![P2P](projects/p2p.png)
+
+SimplyP2P is a simple peer-to-peer network that synchronize a _common boolean state between all peers_ and show the current state in a GUI, with some buttons to change its value in all peers.
+
+The reference value is the time expressed as UNIX timestamp: if the value is greater than that of the currently contained value, the status of current node is updated and it will be transmitted to the other connected nodes, otherwise the update will be discarded because it's considered obsolete.
+
 ## [\[Go\] Minecraft Light Server](https://github.com/ErikPelli/MinecraftLightServer)
 ![Minecraft](projects/mclight.png)
 
-Minecraft Light Server is a simple multiplayer Minecraft server written entirely in Go, which can help those who are making one to better understand how the basic things that compose it interact with each other.
+Minecraft Light Server is a simple _multiplayer Minecraft server written entirely in Go_, which can help those who are making one to better understand how the basic things that compose it interact with each other.
 
 It's very basic and its functions are very limited, but it was built following the specifications and understanding what other projects have done, which are written in the project readme file.
 
@@ -13,7 +20,7 @@ It's very basic and its functions are very limited, but it was built following t
 SRIX4K Reader is a program to read, modify and write SRIX4K and ST25TB04K NFC tags, which are contained in everyday products.
 This project, unlike all the other similar ones on GitHub, follows all the guidelines imposed by the [ST datasheet](https://www.st.com/resource/en/datasheet/st25tb04k.pdf), including the rereading of the written data, to preserve the data integrity, and the division of the NFC tag's EEPROM into different logical zones with different permissions.
 
-This program relies on "libnfc" library to interact with the NFC reader and the NFC tag, but due to its modularity, the library for the reader can be easily changed in the future.
+This program relies on **libnfc** library to interact with the NFC reader and the NFC tag, but due to its modularity, the library for the reader can be easily changed in the future.
 
 ## [\[Go\] Goombagram - suspended](https://github.com/GoombaGram/GoombaGram)
 ![Telegram](projects/telegram.png)
@@ -23,7 +30,7 @@ GoombaGram is a library written entirely in Go that interfaces directly with Tel
 Its development has been suspended, some parts have been developed but it's currently incomplete.
 
 ### [TL parser JSON](https://github.com/GoombaGram/TL-parser-JSON)
-TL parser JSON is a parser linked to Goombagram that parse a Telegram .tl scheme file and produce and output JSON file, which has the same format as those used by Telegram.
+TL parser JSON is a parser linked to Goombagram that parse a Telegram _.tl scheme file_ and produce and output _JSON file_, which has the same format as those used by Telegram.
 
 ## [\[C\#\] McTazze](https://github.com/McTazze)
 ![McTazze](projects/mctazze.png)
