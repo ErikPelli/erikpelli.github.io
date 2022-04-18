@@ -5,8 +5,9 @@
 _Italian student and self-taught developer._
 
 ## Contacts
-- [✉️ Email](mailto:erikpellizzon@gmail.com)
+- [✉️ Email](mailto:erikpellizzon1@gmail.com)
 - [✈️ Telegram](https://telegram.me/ErikP)
+- [ℹ️ LinkedIn](https://www.linkedin.com/in/erikpelli/)
 
 ## Pages
 - **[Read more about me](about)**
