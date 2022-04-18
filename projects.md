@@ -1,5 +1,12 @@
 # 🔨 My projects
 
+## [\[Go\] MessagePack serializer in Go](https://github.com/ErikPelli/SimplyP2P)
+![P2P](projects/msgpack.png)
+
+S.B.O.R. is a modern and straightforward MessagePack serializer written completely in Go, without the use of code that use "unsafe" package and thus preserving the cross-compilation characteristics of the language.
+
+The aim of the project is to make a library that balances the performance with the ease of use. Its code must be easy and understandable, and the tests must be adequate, with unit test code coverage greater than 95%.
+
 ## [\[Go\] SimplyP2P](https://github.com/ErikPelli/SimplyP2P)
 ![P2P](projects/p2p.png)
 
