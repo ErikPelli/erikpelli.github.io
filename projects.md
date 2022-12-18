@@ -1,5 +1,13 @@
 # 🔨 My projects
 
+## [\[Java\] BigMetric](https://github.com/ErikPelli/BigMetric)
+![BigMetric](projects/bigmetric.png)
+
+BigMetric is a Proof of Concept to test a scalable network of temperature sensors located worldwide that collects time series data.
+There is a middleware that handles the data collected from the sensors, filters it, processes it by converting it to a compatible format, and saves it to the database, written in Java Spring.
+
+Grafana was chosen to display some graph on changes in sensor data over time. The tool takes data directly from the Cassandra cluster using some CQL (Cassandra Query Language) queries written for this project, over the timeframe considered.
+
 ## [\[Go\] MessagePack serializer in Go](https://github.com/ErikPelli/SimplyP2P)
 ![P2P](projects/msgpack.png)
 
