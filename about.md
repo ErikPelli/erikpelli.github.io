@@ -2,7 +2,7 @@
 I'm a **Software Engineer** from Italy who has been experimenting with programming problems for years
 and I enjoy finding effective solutions for each one: you can see some of my projects in my [GitHub profile](https://github.com/ErikPelli).
 
-I'm also an occasional open source contributor in other projects, and for example I have made some proposals for code changes that have been accepted and are now part of the Go programming language [compiler](https://github.com/golang/go).
+I'm also an occasional open source contributor in other projects, and for example I have made some proposals for code changes that have been accepted and are now part of the [Go programming language](https://github.com/golang/go/pulls?q=is%3Apr+author%3AErikPelli).
 
 I develop new features and contribute to the maintenance of backend and frontend of X-ASSIST and AXA Travel EYE, travel security SaaS platforms that allows managers from other companies to be tracked and alerted when there is news that may impact their area. They can stay safe during a trip, calling for help when needed, with a 24-hour operations center handling emergencies.
 
