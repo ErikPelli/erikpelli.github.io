@@ -7,6 +7,7 @@ I'm also an occasional open source contributor in other projects, and for exampl
 I develop new features and contribute to the maintenance of backend and frontend of X-ASSIST and AXA Travel EYE, travel security SaaS platforms that allows managers from other companies to be tracked and alerted when there is news that may impact their area. They can stay safe during a trip, calling for help when needed, with a 24-hour operations center handling emergencies.
 
 ---
+
 ## Certifications
 
 | Name | Issuer |
@@ -14,6 +15,7 @@ I develop new features and contribute to the maintenance of backend and frontend
 | [Google Cloud Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/N3R64J9DGSTR) | Coursera/Google |
 | [MongoDB 5.0 Certified Associate Developer](https://university.mongodb.com/certification/certificate/520459879) | MongoDB |
 | [Apache Cassandra 3 Certified Associate Developer](https://certification.mettl.com/datastax/applicant/result/download-certificate?key=ebxGmjo7OQE33y9E%2Bag8IA%3D%3D) | DataStax |
+
 ---
 
 ## [🔙 Home](/)
