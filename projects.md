@@ -1,5 +1,12 @@
 # 🔨 My projects
 
+## [\[Java\] JDigital](https://github.com/ErikPelli/JDigital)
+![JDigital](projects/jdigital.png)
+
+JDigital is a project based on [IpDigital](https://github.com/ErikPelli/IpDigital), an old school group project based on PHP, leaving its backend/frontend part intact and replacing the legacy PHP API that provides the core functionality with a Java Spring (Boot) API, without breaking compatibility with the previous one, making a transparent upgrade for its users.
+
+The goal of the entire project was to create a system for managing nonconformities in an imaginary company, thus allowing tracking of how problems were resolved in the past and resolving them in the present through a simple but effective web interface, giving the employee sufficient freedom of choice on how to go about acting on a problem that has arisen.
+
 ## [\[Java\] BigMetric](https://github.com/ErikPelli/BigMetric)
 ![BigMetric](projects/bigmetric.png)
 
@@ -47,7 +54,7 @@ Its development has been suspended, some parts have been developed but it's curr
 ### [TL parser JSON](https://github.com/GoombaGram/TL-parser-JSON)
 TL parser JSON is a parser linked to Goombagram that parse a Telegram _.tl scheme file_ and produce and output _JSON file_, which has the same format as those used by Telegram.
 
-## [\[C\#\] McTazze](https://github.com/McTazze)
+## [\[C\#\] McTazze](https://github.com/ErikPelli/McTazze)
 ![McTazze](projects/mctazze.png)
 
 McTazze is a program that generates random (but valid, thanks to the generation algorithm) McDonald's italian coffee promocode and insert them in some accounts registered on their website. Accounts are taken from a JSON file that contains emails and cookies of the account session.
@@ -58,7 +65,7 @@ Before that, it was able to completely fill the coupon slots of _500 accounts in
 ### [McCafe Locations](https://github.com/ErikPelli/McCafe-Locations)
 McCafe Locations is a simple Python script linked to McTazze and, starting from the files published on the McDonald's website, it compares the locations of restaurants and eliminates those that don't have a cafeteria, producing an output JSON file usable by mctazze.
 
-## [\[Java\] MiZipGen](https://github.com/MiZipGen)
+## [\[Java\] MiZipGen](https://github.com/ErikPelli/MiZipGen)
 MiZipGen is a Java library that calculates all the keys for the Mifare tag of the MiZip vending key. 
 
 It's based on `https://github.com/iceman1001/proxmark3/blob/master/client/scripts/calc_mizip.lua`, but this is in clean Java code.
