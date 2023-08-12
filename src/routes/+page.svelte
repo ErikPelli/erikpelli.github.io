@@ -9,12 +9,8 @@
 
 <div class="flex justify-center space-x-2 bg-gray-200 p-2">
 	<span class="text-gray-600 text-xl italic font-bold">Made with</span>
-	<a href="https://kit.svelte.dev/" target="_blank">
-		<SvelteLogo size="h-10" />
-	</a>
-	<a href="https://tailwindcss.com/" target="_blank">
-		<TailwindLogo size="h-10" />
-	</a>
+	<SvelteLogo size="h-10" />
+	<TailwindLogo size="h-10" />
 </div>
 
 <div class="flex flex-col justify-around h-screen my-6">
@@ -22,9 +18,7 @@
 		<span class="invisible text-[0px]">Garda Security</span>
 		<span class="invisible text-[0px]">Crisis24</span>
 		<span class="invisible text-[0px]">GardaWorld</span>
-		<a href="https://garda.com" target="_blank">
-			<GardaLogo size="mx-auto h-10" />
-		</a>
+		<GardaLogo size="mx-auto h-10" />
 		<h1 class="text-4xl font-semibold text-[#747678]">Software Engineer</h1>
 	</div>
 
