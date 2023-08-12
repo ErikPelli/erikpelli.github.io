@@ -7,7 +7,7 @@
 	import GardaLogo from "$lib/components/garda-logo.svelte";
 </script>
 
-<div class="flex justify-center space-x-2 bg-gray-200 p-2">
+<div class="flex justify-center space-x-2 bg-gray-300 p-2">
 	<span class="text-gray-600 text-xl italic font-bold">Made with</span>
 	<SvelteLogo size="h-10" />
 	<TailwindLogo size="h-10" />
