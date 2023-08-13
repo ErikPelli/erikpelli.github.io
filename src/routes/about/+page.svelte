@@ -1,4 +1,4 @@
-<div class="flex flex-col justify-around h-screen my-6">
+<div class="flex flex-col justify-around my-6">
 	<div class="flex flex-row flex-wrap justify-center items-center space-y-8 lg:space-y-0 md:space-x-8 my-4">
 		<img class="w-1/2 max-w-xs" src="images/photo.png" alt="Face" />
 		<div class="w-2/3 max-w-lg space-y-3 text-gray-200">
