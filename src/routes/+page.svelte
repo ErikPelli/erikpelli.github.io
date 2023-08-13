@@ -13,13 +13,18 @@
 <div class="flex flex-col justify-around h-[80vh] my-6">
 	<div class="flex flex-row flex-wrap justify-center space-x-4">
 		<a href="/about"
-			 class="flex bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 space-x-2 rounded items-center">
+			 class="flex bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 space-x-2 rounded items-center mt-4">
 			<span class="uppercase">About me</span>
 			<Fa icon={faCaretRight} />
 		</a>
 		<a href="/projects"
-			 class="flex bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 space-x-2 rounded items-center">
+			 class="flex bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 space-x-2 rounded items-center mt-4">
 			<span class="uppercase">Projects</span>
+			<Fa icon={faCaretRight} />
+		</a>
+		<a href="/resume.pdf" target="_blank"
+			 class="flex bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 space-x-2 rounded items-center mt-4">
+			<span class="uppercase">Resume</span>
 			<Fa icon={faCaretRight} />
 		</a>
 	</div>
