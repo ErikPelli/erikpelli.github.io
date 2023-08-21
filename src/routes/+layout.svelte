@@ -13,12 +13,9 @@
 <div class="page">
 	<header class="w-full bg-gray-800 p-2 lg:p-6">
 		<div class="flex flex-col lg:flex-row">
-			<a href="/" class="flex flex-col lg:flex-row space-x-6 text-left lg:text-center">
-				<div class="flex flex-row items-center text-gray-300 text-center flex-wrap">
-					<Fa class="text-3xl lg:text-5xl" icon={faAt} />
-					<h1 class="text-8xl italic font-semibold">ErikPelli</h1>
-				</div>
-				<h2 class="text-4xl text-gray-500 uppercase font-semibold lg:font-light">Portfolio Website</h2>
+			<a href="/" class="flex flex-row items-center text-gray-300 text-center flex-wrap">
+                <Fa class="text-3xl lg:text-5xl" icon={faAt} />
+                <h1 class="text-8xl italic font-semibold">ErikPelli</h1>
 			</a>
 			<div
 				class="flex flex-row lg:flex-col bg-gray-600 rounded-lg p-1 my-3 lg:my-0 space-x-1 lg:space-x-0 lg:space-y-1 lg:w-10 lg:ml-auto justify-center">
