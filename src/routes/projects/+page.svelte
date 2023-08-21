@@ -1,4 +1,4 @@
-<div class="flex flex-col justify-around my-6 space-y-4 w-full">
+<div class="flex flex-col justify-around my-6 space-y-4">
 	<div>
 		<a href="https://github.com/ErikPelli/JDigital" class="flex justify-center space-x-2 items-center">
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c"
