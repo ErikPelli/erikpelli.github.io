@@ -28,18 +28,18 @@
 			<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/N3R64J9DGSTRm"
 				 target="_blank">
 				<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="96"
-						 height="96" />
+						 height="96" title="Google Cloud Developer Specialization" />
 			</a>
 			<a href="https://university.mongodb.com/certification/certificate/520459879" target="_blank">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-						 alt="mongodb" width="96" height="96" />
+						 alt="mongodb" width="96" height="96" title="MongoDB 5.0 Associate Developer (C100DEV)" />
 			</a>
 			<a
 				href="https://certification.mettl.com/datastax/applicant/result/download-certificate?key=ebxGmjo7OQE33y9E%2Bag8IA%3D%3D"
 				target="_blank">
 				<img
 					src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="96"
-					height="96" />
+					height="96" title="Apache Cassandra 3 Associate Developer" />
 			</a>
 		</div>
 	</div>
