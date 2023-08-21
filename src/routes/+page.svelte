@@ -44,9 +44,9 @@
 	</div>
 </div>
 
-<div class="flex justify-center space-x-2 bg-gray-300 p-2">
-	<span class="text-gray-600 text-xl italic font-bold">Made with</span>
+<div class="flex justify-center space-x-2 bg-gray-800 pt-4">
 	<SvelteLogo size="h-8" />
+	<span class="text-gray-500 text-xl italic font-bold">+</span>
 	<TailwindLogo size="h-8" />
 </div>
 

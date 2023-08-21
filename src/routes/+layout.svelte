@@ -15,7 +15,7 @@
 		<div class="flex flex-col lg:flex-row">
 			<a href="/" class="flex flex-row items-center text-gray-300 text-center flex-wrap">
                 <Fa class="text-3xl lg:text-5xl" icon={faAt} />
-                <h1 class="text-8xl italic font-semibold">ErikPelli</h1>
+                <h1 class="text-6xl sm:text-8xl italic font-semibold">ErikPelli</h1>
 			</a>
 			<div
 				class="flex flex-row lg:flex-col bg-gray-600 rounded-lg p-1 my-3 lg:my-0 space-x-1 lg:space-x-0 lg:space-y-1 lg:w-10 lg:ml-auto justify-center">
