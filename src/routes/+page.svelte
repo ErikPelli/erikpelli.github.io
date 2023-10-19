@@ -3,9 +3,6 @@
 	import SvelteLogo from "$lib/components/svelte-logo.svelte";
 	import TailwindLogo from "$lib/components/tailwind-logo.svelte";
 
-	// Companies
-	import GardaLogo from "$lib/components/garda-logo.svelte";
-
 	import Fa from "svelte-fa/src/fa.svelte";
 	import { faCaretRight } from "@fortawesome/free-solid-svg-icons";
 </script>

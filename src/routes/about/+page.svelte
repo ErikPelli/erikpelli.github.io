@@ -1,4 +1,5 @@
 <script>
+	// Companies
 	import GardaLogo from "$lib/components/garda-logo.svelte";
 </script>
 
