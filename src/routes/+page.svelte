@@ -30,11 +30,8 @@
 	</div>
 
 	<div class="flex flex-col text-center space-y-3">
-		<span class="invisible text-[0px]">Garda Security</span>
-		<span class="invisible text-[0px]">Crisis24</span>
-		<span class="invisible text-[0px]">GardaWorld</span>
-		<h1 class="text-4xl font-semibold text-gray-300">Software Engineer at</h1>
-		<GardaLogo size="h-10" />
+		<h1 class="text-4xl font-semibold text-gray-300">Freelancer</h1>
+		<h1 class="text-4xl font-semibold text-gray-300">Software Engineer</h1>
 	</div>
 
 	<div class="text-center">
