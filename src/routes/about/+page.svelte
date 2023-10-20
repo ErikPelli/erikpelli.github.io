@@ -47,16 +47,17 @@
 		<hr class="w-2/3 border-gray-700 border-2" />
 	</div>
 
-	<div class="flex flex-col items-center">
-		<h2 class="w-2/3 max-w-lg text-gray-300 text-2xl xl:text-4xl font-bold text-center">&lt;October 2022 - November 2023 /&gt;</h2>
-		<div class="flex flex-col w-2/3 space-y-2">
+	<div class="flex flex-col items-center space-y-4">
+		<div class="w-2/3 flex flex-col justify-center items-center">
+			<code class="max-w-lg text-gray-300 text-xl xl:text-2xl font-bold text-center">&lt;job start="October 2022"</code>
+			<code class="max-w-lg text-gray-300 text-xl xl:text-2xl font-bold text-center">end="November 2023" /&gt;</code>
+		</div>
+		<div class="flex flex-col w-2/3 justify-center items-center">
 			<span class="invisible text-[0px]">Garda Security</span>
 			<span class="invisible text-[0px]">Crisis24</span>
 			<span class="invisible text-[0px]">GardaWorld</span>
-			<div class="flex justify-center p-2">
-				<GardaLogo size="h-10" />
-			</div>
-			<p class="p-2 text-gray-200">
+			<GardaLogo size="h-10" />
+			<p class="text-gray-200 max-w-lg mt-4">
 				I developed new features and contributed to the maintenance of backend and frontend of X-ASSIST
 				and AXA Travel EYE,
 				travel security SaaS platforms managed by the Crisis24 department of GardaWorld, that allows managers from
