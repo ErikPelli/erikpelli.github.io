@@ -27,7 +27,6 @@
 	</div>
 
 	<div class="flex flex-col text-center space-y-3">
-		<h1 class="text-4xl font-semibold text-gray-300">Freelancer</h1>
 		<h1 class="text-4xl font-semibold text-gray-300">Software Engineer</h1>
 	</div>
 
