@@ -1,0 +1,37 @@
+baseurl: ""
+url: "https://erikpelli.pp.ua"
+
+title: "ErikPelli"
+description: Portfolio Website
+
+theme-color: green
+
+# Home
+author: Erik Pellizzon
+author-bio: Software Engineer</p><p class="text-gray-400 pb-4">Send me an <a class="text-gray-100" href='mailto:erikpellizzon1@gmail.com'>email</a>
+author-image: photo.png
+
+# navigation menu
+show-nav-menu: true
+
+nav-menu:
+- text: About
+  permalink: about
+- text: Projects
+  permalink: projects
+- text: Resume
+  permalink: resume.pdf
+
+twitter: false
+facebook: false
+instagram: false
+medium: false
+github: https://github.com/ErikPelli
+linkedin: https://www.linkedin.com/in/erikpelli
+telegram: https://telegram.me/ErikP
+
+footer-msg: Erik Pellizzon
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
