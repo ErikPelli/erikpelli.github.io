@@ -19,7 +19,7 @@ I'm also an occasional open source contributor in other projects, and for exampl
 
 > ### `<job start="November 2023" />`
 > <img class="h-8" src="{{ site.baseurl }}/assets/img/jobs/revpool.svg" alt="RevPool">
-> I worked on the software infrastructure that allows professional sports bettors to beat the theory of efficient markets applied to sports betting,
+> I work on the software infrastructure that allows professional sports bettors to beat the theory of efficient markets applied to sports betting,
 placing automated bets on hundreds of websites without having to manage the complexity.
 
 > ### `<job start="October 2022" end="November 2023" />`
