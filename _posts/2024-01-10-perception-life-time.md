@@ -9,11 +9,9 @@ Start 0f `2 0 2 4`... What a great time to open a random blog and discuss about 
 
 This article doesn't use ChatGPT or similar textual AIs in any way, I decided to write it completely on my own, with the help of [DeepL](https://www.deepl.com/translator) to correct translation errors.
 
-```
-Hey Erik, 2023 really sucked for me, I can't wait for December 31, so that 2024 comes and at least I can hope that the next year will be better.
-
-~ R
-```
+> Hey Erik, 2023 really sucked for me, I can't wait for December 31, so that 2024 comes and at least I can hope that the next year will be better.
+>
+> ~ R
 
 I've been thinking about this for a while, and I've come up with the idea that the common thought among people is that, on December 31, if it was a good year, we hope for a year that is equal in happiness or even better, and vice versa, if things didn't go well, we want to move away from the old year and put our trust in the future.
 
@@ -60,12 +58,13 @@ If we ask different people about the meaning of life, we will get very different
 - **To a child**: `"I live to play and have fun"`
 - **To a 70 year old employee**: `"I live to enjoy retirement and rest after a lifetime of work"`
 
-```
-Floop Floopian: "I seek a great warrior to kill me so that I can live in peace in heaven"
-Morty: "Do you have evidence that heaven exists?"
-*the alien escapes, a car hits him, and as his soul is swallowed by darkness, he continues to curse Morty* 
-```
-> Ooops, the last one comes from Rick & Morty Season 3.
+> Floop Floopian: "I seek a great warrior to kill me so that I can live in peace in heaven"
+>
+> Morty: "Do you have evidence that heaven exists?"
+>
+> *the alien escapes, a car hits him, and as his soul is swallowed by darkness, he continues to curse Morty* 
+
+Ooops, the last one comes from Rick & Morty Season 3.
 
 If at a certain time you haven't assigned yourself a purpose in life, whether small or big, you will most likely feel lost and you won't be happy with the moments you live, because you don't know where ou are going, there isn't a destination.
 
@@ -97,9 +96,6 @@ You probably won't stop working altogether right away but will devote yourself t
 However, what if I told you that obsession with getting rich is not everything? You certainly won't become important in the long run if you only get a little money.
 
 The richest people of the past have been forgotten today and their descendants have spent all the wealth, there is no family that has held wealth for a thousand years or more, or even if there were, it would not be a significant percentage compared to all the others who didn't make it.
-
-Una persona come Bezos finirà sui libri di storia nei prossimi anni, ma già fra 2000 anni chissà se sarà ancora conosciuto.
-A scuola impariamo i nomi di tutti i più grandi imperatori del passato, ma non abbiamo idea di chi fossero le persone più ricche dell'epoca, forse qualche archeologo lo conosce ma non le persone normali.
 
 A person like Jeff Bezos (Amazon founder) will end up in history books in the next few years, but in `2,000 years` who knows if he will still be known.
 Today in school we learn the names of all the greatest emperors of the past, but we have no idea who the richest people of the time were, maybe a few archaeologists know but not common people.
