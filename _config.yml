@@ -14,7 +14,7 @@ author-image: photo.png
 # navigation menu
 show-nav-menu: true
 
-permalink: /blog/:year/:month/:title:output_ext
+permalink: /blog/:year-:month/:title
 
 nav-menu:
 - text: About
