@@ -114,7 +114,7 @@ Here is a permanent Google Maps [URL](https://www.google.com/maps/place//@41.890
 
 Please note, these are WGS-84 coordinates, if we use another projection we may need to do a conversion between the two measurement systems. I have a China story about this that I will probably tell in the future....
 
-Nel frattempo puoi usare questo simple converter [tool](https://epsg.io/transform) or you can do the same using a PostGIS function in a Postgres query: here you are the [PostGIS documentation](https://postgis.net/documentation/).
+Meanwhile you can use this simple converter [tool](https://epsg.io/transform) or you can do the same using a PostGIS function in a Postgres query: here you are the [PostGIS documentation](https://postgis.net/documentation/).
 
 Good luck dealing with this!
 
