@@ -61,11 +61,6 @@ If you want to learn more read [here](https://en.wikipedia.org/wiki/Restrictions
 
 ## Google Maps example
 
-China provides the road mappings in their own GCJ-02 coordinate system.
-Since Google is not allowed to convert the coordinates from GCJ-02 to WGS-84 and viceversa, you can clearly see a mismatch in the satellite view.
-Satellitar images aren't under the control of the Chinese government and therefore they are expressed in the WGS-84 coordinate system.
-And you can clearly see this in the image below, when GPS says that you are in a certain point, in the road mappings you are elsewhere.
-
 China provides road mappings in its `GCJ-02` coordinate system.
 Since Google is not allowed to convert coordinates from `GCJ-02` to `WGS-84` and vice versa, a mismatch in the satellite view can be clearly seen.
 The satellite images are not under the control of the Chinese government, so they are expressed in the `WGS-84` coordinate system.
