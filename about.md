@@ -18,7 +18,7 @@ I'm also an occasional open source contributor in other projects, and for exampl
 ## Jobs
 
 > ### `<job start="November 2023" />`
-> <img class="h-8" src="{{ site.baseurl }}/assets/img/jobs/zooid-dino.png" alt="Zooid Dino">
+> <img class="h-20" src="{{ site.baseurl }}/assets/img/jobs/zooid-dino.png" alt="Zooid Dino">
 > I work as a freelancer software developer for other companies, specifically using the Go programming language.
 > I have worked on projects in many business sectors, including sports betting.
 > As a relevant project to mention, I helped build an aggregator for automated betting on hundreds of websites, working with the company Revpool LTD.
