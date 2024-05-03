@@ -18,9 +18,10 @@ I'm also an occasional open source contributor in other projects, and for exampl
 ## Jobs
 
 > ### `<job start="November 2023" />`
-> <img class="h-8" src="{{ site.baseurl }}/assets/img/jobs/revpool.svg" alt="RevPool">
-> I work on the software infrastructure that allows professional sports bettors to beat the theory of efficient markets applied to sports betting,
-placing automated bets on hundreds of websites without having to manage the complexity.
+> <img class="h-8" src="{{ site.baseurl }}/assets/img/jobs/zooid-dino.png" alt="Zooid Dino">
+> I work as a freelancer software developer for other companies, specifically using the Go programming language.
+> I have worked on projects in many business sectors, including sports betting.
+> As a relevant project to mention, I helped build an aggregator for automated betting on hundreds of websites, working with the company Revpool LTD.
 
 > ### `<job start="October 2022" end="November 2023" />`
 > <img class="h-8" src="{{ site.baseurl }}/assets/img/jobs/garda.svg" alt="GardaWorld">
