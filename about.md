@@ -22,9 +22,9 @@ I'm also an occasional open source contributor in other projects, and for exampl
 > I work as a freelancer software developer for other companies, specifically using the Go programming language.
 >
 > I have worked on projects in many business sectors, including sports betting.
-> Main customers I have worked with so far: Revpool LTD, Betstarters.
->
 > As a relevant project to mention, I helped build an aggregator for automated betting on hundreds of websites, working with the company Revpool LTD.
+> 
+> Main customers I have worked with so far: **Revpool** (UK), **BetStarters** (Malta).
 
 > ### `<job start="October 2022" end="November 2023" />`
 > <img class="h-8" src="{{ site.baseurl }}/assets/img/jobs/garda.svg" alt="GardaWorld">
