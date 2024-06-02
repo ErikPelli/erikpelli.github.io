@@ -1,5 +1,6 @@
 baseurl: ""
 url: "https://erikpelli.pp.ua"
+timezone: Europe/Rome
 
 title: "ErikPelli"
 description: Portfolio Website
