@@ -4,7 +4,7 @@ title: Investing with Franz Kafka and John Bogle
 tags: book investing
 ---
 
-| ![Books](/assets/img/blog/2024-05-22-kafka-bogle/books.jpg) | 
+| ![Books](/assets/img/blog/2024-06-03-kafka-bogle/books.jpg) | 
 |:-----------------------------------------------------------:| 
 | *Dedicated to the 100th anniversary of Franz Kafka's death* |
 
@@ -18,7 +18,7 @@ spoke German and all his works are in German).
 "Please burn everything", these were Kafka's requests to his closest friend when he was close to death, he believed
 he was a bad writer.... All his life no one made him believe the opposite.
 
-| ![Kafka statue](/assets/img/blog/2024-05-22-kafka-bogle/kafka-statue.jpg)  | 
+| ![Kafka statue](/assets/img/blog/2024-06-03-kafka-bogle/kafka-statue.jpg)  | 
 |:--------------------------------------------------------------------------:| 
 | *I personally took this photo of Kafka's statue in Prague, his birthplace* |
 
@@ -34,7 +34,7 @@ review I will try to merge the two ideologies into a possible financial worldvie
 John Bogle was a benefactor, God himself, the creator of humanity... no okay, I'm just exaggerating.
 
 
-| ![Books](/assets/img/blog/2024-05-22-kafka-bogle/vanguard.png) | 
+| ![Books](/assets/img/blog/2024-06-03-kafka-bogle/vanguard.png) | 
 |:--------------------------------------------------------------:| 
 |            *John is the creator of Vanguard Group*             |
 
@@ -110,7 +110,7 @@ which ideally will accumulate value over time.
 Active funds manage to turn a winning strategy into a favorable game for them, so they can squeeze out the
 inexperienced people who trust them.
 
-| ![Books](/assets/img/blog/2024-05-22-kafka-bogle/failed-active-funds.jpg) | 
+| ![Books](/assets/img/blog/2024-06-03-kafka-bogle/failed-active-funds.jpg) | 
 |:-------------------------------------------------------------------------:| 
 |              *Performance of active funds in the long term*               |
 
