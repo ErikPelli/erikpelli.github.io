@@ -54,7 +54,7 @@ Ideally, Vanguard is serving the interests of the investors themselves, and fees
 the profits from its products
 (e.g. [2022](https://corporate.vanguard.com/content/corporatesite/us/en/corp/who-we-are/pressroom/Press-release-VG-reports-expense-ratio-reductions-for-active-equity-and-bond-funds-020122.html)).
 
-Nowadays, `2024`, Vanguard handles [8.6T$]((https://www.ch.vanguard/content/dam/intl/europe/documents/en/vanguard-in-a-nutshell-eu-en.pdf))
+Nowadays, `2024`, Vanguard handles [8.6T$](https://www.ch.vanguard/content/dam/intl/europe/documents/en/vanguard-in-a-nutshell-eu-en.pdf)
 in assets for their customers. When Jogn died, in 2019, they were approximately 6T$ (a.k.a. 6,000 billions).
 What am I trying to say? Today everyone knows Warren Buffett, one of the richest men in the world, yet he manages
 less than $1T, he ate a big piece of the pie.
