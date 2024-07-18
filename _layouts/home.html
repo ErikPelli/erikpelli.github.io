@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{% if site.show-nav-menu %}
+    {% include nav.html%}
+{% endif %}
+
+<div class="mx-auto text-center prose !prose-invert">
+    <div>
+        <img class="object-cover mx-auto h-36 w-36 rounded-full" src="{{ site.baseurl }}/assets/img/{{ site.author-image }}" alt="author profile image">
+        <h1 class="text-gray-100">{{ site.author }}</h1>
+    </div>
+    {% if site.author-bio %}
+        <p class="text-gray-400 pb-4">{{ site.author-bio }}</p>
+    {% endif %}
+</div>
+
+{% include social-media.html %}
+{% include footer.html %}

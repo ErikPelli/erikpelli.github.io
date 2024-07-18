@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://erikpelli.pp.ua/sitemap.xml
