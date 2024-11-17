@@ -20,10 +20,10 @@ permalink: /blog/:year-:month/:title
 nav-menu:
 - text: About
   permalink: about
-- text: Projects
-  permalink: projects
 - text: Resume
   permalink: resume.pdf
+- text: Projects
+  permalink: projects
 - text: Speaker
   permalink: speaker
 
