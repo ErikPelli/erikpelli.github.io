@@ -3,13 +3,13 @@ url: "https://erikpelli.pp.ua"
 timezone: Europe/Rome
 
 title: "ErikPelli"
-description: Portfolio Website
+description: Personal Website
 
 theme-color: green
 
 # Home
 author: Erik Pellizzon
-author-bio: Software Engineer</p><p class="text-gray-400 pb-4">Send me an <a class="text-gray-100" href='mailto:erikpellizzon1@gmail.com'>email</a>
+author-bio: Freelancer Software Engineer</p><p class="text-gray-400 pb-4">Send me an <a class="text-gray-100" href='mailto:erikpelli@tutamail.com'>email</a>
 author-image: photo.png
 
 # navigation menu
@@ -24,6 +24,8 @@ nav-menu:
   permalink: projects
 - text: Resume
   permalink: resume.pdf
+- text: Speaker
+  permalink: speaker
 
 twitter: false
 facebook: false
