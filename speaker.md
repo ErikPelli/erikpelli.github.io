@@ -20,4 +20,5 @@ But... Why? As we will see, they are great for I/O bound tasks, and we will
 analyze the logic behind Go's implementation, which is one of the most mature.
 
 [Download Slides](/assets/pdf/speaker/rise-green-threads-v1.pdf)
+
 [Video](https://www.youtube.com/watch?v=AxiZTn0dzaw)
