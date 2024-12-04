@@ -162,6 +162,10 @@ but right now, for this specific currency, the exchange rate applied by Wise
 is `really good`, less than 0.01%, although they are both good options and
 at certain times Revolut's exchange rate might be the better one.
 
+However, when you use `Wise`, they apply a `"conversion fee"` to offer
+you the great exchange rate (usually `0.5%` - `0.7%`, [0.64%](https://wise.com/it/pricing/hold-fees?sourceAmount=1000&sourceCcy=PLN&targetCcy=EUR)
+for zloty) and, as a result, it's `less convenient` in our example (0.23% vs 0.64%).
+
 ## Local options
 You are in the `middle` of your `trip` and `need money` in the local currency,
 what are the possible `options`?
