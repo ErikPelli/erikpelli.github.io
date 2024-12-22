@@ -4,6 +4,17 @@ title: My Projects
 permalink: projects
 ---
 
+## [\[Go\] SouPPP](https://github.com/gandalfast/souppp)
+![SouPPP]({{ site.baseurl }}/assets/img/projects/souppp.jpg)
+
+SouPPP is a fork of the original zouppp project, to initialize PPP sessions
+using directly Go, thanks to XDP and TUN/TAP.
+
+This allows to bypass the Linux network stack and have great I/O performance
+by directly handling the PPP sessions.
+Thanks to TUN/TAP the routing tables are handled by Linux, so a part of
+the network stack is in fact still used.
+
 ## [\[Java\] JDigital](https://github.com/ErikPelli/JDigital)
 ![JDigital]({{ site.baseurl }}/assets/img/projects/jdigital.png)
 
