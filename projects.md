@@ -4,6 +4,18 @@ title: My Projects
 permalink: projects
 ---
 
+## [\[Go\] GoProxy](https://github.com/elazarl/goproxy)
+### I'm the maintainer of this 6,000+ stars project!
+
+![GoProxy]({{ site.baseurl }}/assets/img/projects/goproxy.jpg)
+
+GoProxy is a library to create a customized HTTP/HTTPS proxy server using Go,
+with several configurable settings available.
+
+The target of this project is to offer an optimized proxy server, usable with reasonable amount of traffic, yet customizable and programmable.
+
+The proxy itself is simply a net/http handler, so you can add multiple middlewares (panic recover, logging, compression, etc.) over it. It can be easily integrated with any other HTTP network library.
+
 ## [\[Go\] SouPPP](https://github.com/gandalfast/souppp)
 ![SouPPP]({{ site.baseurl }}/assets/img/projects/souppp.jpg)
 
