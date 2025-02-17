@@ -140,6 +140,14 @@ Same applies for the `sleeping mask`: it's `uncomfortable` to wear but
 if the room `lacks curtains`, it's essential if you don't want to be woken up by `sunlight`.
 I personally `never carry` it with me, but it `can be useful` in some cases.
 
+## Food tip
+When you travel, you usually `cook` yourself a few meals, by buying the necessary ingredients
+at the `supermarket`, because it's unfeasible to go to the restaurant every single time.
+
+Since I'm italian, I often cook `pasta` and I have noticed that the only decent sauce I can
+find almost anywhere outside Italy is `“Barilla pesto”` (Barilla is an italian brand), all other
+local brands are not comparable in quality.
+
 ## Country flag
 It can be useful to always have a `flag` of your `country` with you,
 so that you can `show` your `origin` while traveling.
