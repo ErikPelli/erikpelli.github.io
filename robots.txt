@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://erikpelli.pp.ua/sitemap.xml
+
+# Articles with controversial topics
+Disallow: /blog/2024-09/drugs-nightmare
