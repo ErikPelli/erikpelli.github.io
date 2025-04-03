@@ -4,6 +4,18 @@ title: Speaker
 permalink: speaker
 ---
 
+## 2025
+
+### [WebDay](https://www.webdayconf.it/speaker/29905/Erik-Pellizzon) - Milan, 31st March
+
+#### You don't really know HTTP (English)
+First version of HTTP came out in 1997, do you really think that most of the traffic on the web today still uses it?
+Over time there has been a great evolution of the protocol, with 2 new versions released that are not compatible with the original standard, turning it into a totally different protocol and no longer text-based.
+
+However, most developers don't even know what we're talking about, what about a deep dive?
+
+[Download Slides](/assets/pdf/speaker/you-dont-really-know-http.pdf)
+
 ## 2024
 
 ### [Devfest Venezia](https://devfest24.gdgvenezia.it/speakers/erik-pellizzon/) - Venice, 16th November
