@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-comments
 title: Drugs Nightmare
 ---
 

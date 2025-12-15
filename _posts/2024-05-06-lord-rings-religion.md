@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-comments
 title: The Lord of The Rings is a religion
 tags: philosophy book
 ---
