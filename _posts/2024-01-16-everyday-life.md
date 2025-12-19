@@ -5,7 +5,7 @@ tags: philosophy time life
 ---
 
 ## Introduction
-A sequel to [Perception of life in the T.I.M.E.](https://erikpelli.pp.ua/blog/2024-01/perception-life-time), here the article is much more pratical and applied to real life.
+A sequel to [Perception of life in the T.I.M.E.](/blog/2024-01/perception-life-time), here the article is much more pratical and applied to real life.
 
 ## A life well lived
 Are you already preparing to digest the last paragraph by swallowing gallons of Alcohol to forget? Don't.

@@ -15,7 +15,7 @@ capable of running on the 8 bit Nintendo Entertainment System (NES) console.
 This project demonstrates how machine learning calculations can be performed on a processor based on the MOS 6502
 (1.79 MHz) with only 2KB of RAM, using fixed-point math and aggressive memory optimization.
 
-> **[Read More](https://erikpelli.pp.ua/blog/2026-01/nes-ai)**
+> **[Read More](/blog/2026-01/nes-ai)**
 
 ## [\[Go\] GoProxy](https://github.com/elazarl/goproxy)
 ### I'm the maintainer of this 6,000+ stars project!
