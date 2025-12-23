@@ -10,6 +10,8 @@ I'm a Software Engineer from Italy who has been experimenting with programming p
 
 I'm also an occasional open source contributor in other projects, and for example I have made some proposals for code changes that have been accepted and are now part of the Go programming language.
 
+I currently work as a freelance software developer for other companies, using the Go programming language.
+
 ## Certifications
 - [Google Cloud](https://www.coursera.org/account/accomplishments/specialization/certificate/N3R64J9DGSTR)
 - [MongoDB](https://university.mongodb.com/certification/certificate/520459879)
