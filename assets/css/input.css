@@ -1,0 +1,41 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+    --font-sans: "Inter var", sans-serif;
+}
+
+@variant dark (&:where(.dark, .dark *));
+
+/* Custom Typography Overrides */
+@utility prose {
+    & pre {
+        padding: 0;
+        color: #D1D5DB;
+        background-color: #202020;
+    }
+
+    & code {
+        padding: 0.2em 0.4em;
+        background-color: #202020;
+        color: #D1D5DB;
+        font-weight: 400;
+        border-radius: 0.25rem;
+    }
+
+    & code::before {
+        content: none;
+    }
+
+    & code::after {
+        content: none;
+    }
+
+    & blockquote p:first-of-type::before {
+        content: none;
+    }
+
+    & blockquote p:last-of-type::after {
+        content: none;
+    }
+}
